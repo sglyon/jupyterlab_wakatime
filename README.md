@@ -1,4 +1,12 @@
+# WARNING!!!! this does not work!
+
+I would love to see this plugin and had intentions of working on it, but havent had the time.
+
+As of right now this does not do anything!!
+
 # jupyterlab_wakatime
+
+
 
 A wakatime plugin for Jupyterlab. Tracks time spend in all editor and notebook instances.
 
